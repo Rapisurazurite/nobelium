@@ -47,7 +47,7 @@ const BLOG = {
       distractionFreeMode: false
     },
     utterancesConfig: {
-      repo: 'https://github.com/Rapisurazurite/fjczx_notion_comment.git'
+      repo: 'Rapisurazurite/fjczx_notion_comment'
     },
     cusdisConfig: {
       appId: '', // data-app-id
